@@ -1,0 +1,164 @@
+{
+   "banner":{
+      "builder":true,
+      "no_selection":true,
+      "name":"Banner",
+      "content":{
+          "images":{
+              "image":{
+                  "size":"1920x961"
+              }
+          },
+         "title":"text",
+         "heading":"text",
+         "button":"text",
+         "button_url":"text"
+      }
+   },
+    "how_work":{
+        "builder":true,
+        "name":"How It Work",
+        "element":{
+            "title":"text",
+            "content":"textarea",
+            "modal":true
+        }
+    },
+    "phase":{
+        "builder":true,
+        "name":"Games",
+        "content":{
+            "heading":"text"
+        }
+    },
+    "features":{
+        "builder":true,
+        "name":"Features",
+        "content":{
+            "heading":"text"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "content": "textarea",
+            "modal": true
+        }
+    },
+    "benefits":{
+        "builder":true,
+        "name":"Benefits",
+        "content":{
+            "images":{
+                "background_image":{
+                    "size":"1920x1080"
+                }
+            },
+            "heading":"text"
+        },
+        "element": {
+            "icon": "icon",
+            "title": "text",
+            "content": "textarea",
+            "modal": true
+        }
+    },
+    "statistic":{
+        "builder":true,
+        "name":"Statistic",
+        "content":{
+            "heading_1":"text",
+            "heading_2":"text"
+        }
+    },
+    "faq":{
+        "builder":true,
+        "name":"FAQ",
+        "content":{
+            "images":{
+                "image":{
+                    "size":"992x944"
+                }
+            },
+            "heading":"text"
+        },
+        "element":{
+            "question":"text",
+            "answer":"textarea",
+            "modal":true
+        }
+    },
+    "account":{
+        "builder":true,
+        "no_selection":true,
+        "name":"Account",
+        "content":{
+            "images":{
+                "background_image":{
+                    "size":"1920x1080"
+                }
+            }
+        }
+    },
+
+    "extra": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Extra Pages",
+        "element": {
+            "title": "text",
+            "content": "textarea-nic",
+            "modal": false
+        }
+    },
+
+    "breadcrumb":{
+        "builder":true,
+        "no_selection":true,
+        "name":"Breadcrumb",
+        "content":{
+            "images":{
+                "background_image":{
+                    "size":"1920x961"
+                }
+            }
+        }
+    },
+
+    "address": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Address",
+        "content": {
+            "phone": "text",
+            "email": "text",
+            "address": "text",
+            "map_latitude": "text",
+            "map_longitude": "text"
+        }
+    },
+
+   "footer":{
+      "builder":true,
+      "name":"Footer",
+      "no_selection":true,
+      "content":{
+          "images":{
+              "background_image":{
+                  "size":"1920x1024"
+              },
+              "left_image":{
+                  "size":"768x526"
+              },
+              "right_image":{
+                  "size":"768x830"
+              }
+          },
+         "copyright":"text"
+      },
+       "element": {
+           "social_icon": "icon",
+           "social_link": "text",
+           "modal": true
+       }
+   }
+}

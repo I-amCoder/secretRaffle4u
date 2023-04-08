@@ -1,0 +1,391 @@
+@media screen and (min-width: 1200px) {
+    .structure_table_right {
+        margin-top: 78px;
+    }
+}
+
+
+@media screen and (max-width: 1199px) {
+    .header .navbar-nav .nav-link {
+        padding: 30px 20px !important;
+    }
+
+    .card-content h1 {
+        font-size: 34px;
+    }
+
+    .card-content h3 {
+        font-size: 26px;
+    }
+
+    .header.main_header .navbar-nav .nav-link {
+        padding: 30px 17px !important;
+    }
+
+    .structure_table_right table {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    .support.section_heading h3{
+        font-size: 24px !important;
+    }
+}
+
+
+
+
+@media screen and (max-width: 991px) {
+    .header {
+        padding: 18px 0px !important;
+    }
+
+    .header .navbar-nav .nav-link {
+        padding: 12px 0px !important;
+    }
+
+    .header.main_header .navbar-nav .nav-link {
+        padding: 12px 0px !important;
+    }
+
+    .header .navbar-nav {
+        padding-top: 9px;
+        border-top: 1px solid #0e0d0d;
+        margin-top: 25px;
+    }
+
+    .main_header .navbar-light .navbar-toggler {
+        position: absolute;
+        top: 0;
+        right: 60px;
+    }
+
+    .lg-block {
+        display: none;
+    }
+
+    .setp_wrap {
+        padding: 30px 0px;
+    }
+
+    .benefit_section .section_heading h3 {
+        font-size: 31px;
+    }
+
+    .card_sec .bottom h2 {
+        font-size: 23px;
+    }
+
+    .faq_section .heading_arrow {
+        display: none;
+    }
+
+    .payout_structure .section_heading h3 {
+        font-size: 21px !important;
+    }
+
+    .payout_structure .section_heading img {
+        width: 142px;
+    }
+
+    .time_clock_sec .section_heading img {
+        width: 142px;
+    }
+
+
+    .time_clock_sec .section_heading h3 {
+        font-size: 22px;
+    }
+
+    .raffle_draw_info .site_title h2 {
+        font-size: 20px;
+    }
+
+    .flip-clock-wrapper ul{
+        width: 56px;
+    }
+    .flip-clock-wrapper ul li a div div.inn{
+        font-size: 40px;
+    }
+
+    .flip-clock-divider::after {
+      width: 177px;
+      font-size: 12px;
+    }
+    .banner_content .heade_left .heading_arrow {
+        display: none;
+    }
+    .banner_content h4 {
+    text-align: center;
+    float: initial;
+}
+}
+
+
+@media screen and (min-width: 768px) {
+    .arrow_icon {
+        right: -32px;
+    }
+
+    .footer_icon img {
+        max-width: 200px;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .section_heading h1 {
+        font-size: 31px;
+    }
+
+    .section_heading span {
+        font-size: 29px;
+    }
+
+    .section_heading h3 {
+        font-size: 30px;
+    }
+
+    .section_heading img {
+        width: 141px;
+    }
+
+    .card_sec .bottom h2 {
+        font-size: 27px;
+    }
+
+    .card_sec .bottom h2 img {
+        width: 147px;
+    }
+
+    .benefit_section .section_heading h3 {
+        font-size: 22px;
+    }
+
+    .card_sec .bottom h2 {
+        font-size: 20px;
+    }
+
+    .payout_structure .section_heading h3 {
+        font-size: 22px !important;
+        padding: 0px 3px;
+    }
+
+    .payout_structure .section_heading img {
+        width: 103px;
+    }
+
+    .time_clock_sec .section_heading img {
+        width: 103px;
+    }
+
+    .time_clock_sec .section_heading h3 {
+        font-size: 20px;
+    }
+
+
+
+}
+
+
+@media screen and (max-width: 575px) {
+    .arrow_icon {
+        position: absolute;
+        bottom: -31px;
+        right: 0;
+        left: 0;
+        top: inherit;
+        transform: rotate(90deg);
+    }
+
+    .setp_wrap {
+        padding: 64px 0px;
+    }
+
+    .arrow_icon img {
+        width: 62px;
+    }
+
+    .section_heading h3 {
+        font-size: 31px;
+        padding: 0px 12px;
+    }
+
+    .section_heading span {
+        font-size: 23px;
+    }
+
+    .section_heading img {
+        width: 128px !important;
+    }
+
+    .card_sec .bottom {
+        text-align: center;
+    }
+
+    .product_wrapper .title h2 {
+        font-size: 20px;
+    }
+
+    .play_btn a {
+        font-size: 14px;
+    }
+
+    .structure_table_right table {
+        --bs-table-bg: transparent;
+        --bs-table-accent-bg: transparent;
+        --bs-table-striped-color: #212529;
+        --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+        --bs-table-active-color: #212529;
+        --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+        --bs-table-hover-color: #212529;
+        --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+        width: 100%;
+        margin-bottom: 1rem;
+        color: #212529;
+        vertical-align: top;
+        border-color: #dee2e6;
+    }
+
+    .raffle_draw_info .site_title h2 {
+        font-size: 17px;
+    }
+
+    .draw_rules_sec .site_title h2 {
+        font-size: 18px;
+    }
+
+    .payout_structure .section_heading h3 {
+        font-size: 23px;
+        padding: 0px 12px;
+    }
+
+    .flip-clock-wrapper ul li a div div.inn {
+        font-size: 38px;
+    }
+
+    .heading_arrow {
+        display: none;
+    }
+
+    .flip-clock-wrapper {
+        width: 96%;
+    }
+
+    .flip-clock-wrapper ul {
+        position: relative;
+        float: left;
+        margin: 5px;
+        width: 177px;
+        height: 89px;
+        font-size: 80px;
+        font-weight: bold;
+        line-height: 87px;
+        border-radius: 6px;
+        background: #000;
+        margin-bottom: 45px;
+    }
+
+    .flip-clock-divider {
+        width: 10px;
+    }
+
+    .flip-clock-divider .flip-clock-label {
+        position: absolute;
+        top: -1.5em;
+        right: -86px;
+        color: #000;
+        text-shadow: none;
+    }
+/* 
+    .flip-clock-divider span {
+        display: none;
+    } */
+    /* .flip-clock-divider.hours {
+      width: 100%;
+      position: absolute;
+      top: 1%;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      text-align: center;
+      display: block;
+      width: 201px;
+    } */
+    /* .flip-clock-divider.minutes {
+      width: 100%;
+      position: absolute;
+      top: 34%;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      text-align: center;
+      display: block;
+      width: 201px;
+    } */
+
+     /* .flip-clock-divider.seconds{
+      width: 100%;
+      position: absolute;
+      top: 67%;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      text-align: center;
+      display: block;
+      width: 201px;
+    } */
+
+
+    .flip-clock-divider::after {
+      width: 197px;
+      font-size: 12px;
+    }
+}
+
+
+
+@media screen and (max-width: 450px) {
+    .banner_text h2 {
+        font-size: 42px;
+        line-height: 14;
+    }
+
+    .section_heading h1 {
+        /* font-size: 18px; */
+        font-size: 30px;
+        letter-spacing: 7px;
+    }
+
+    .section_heading h3 {
+        font-size: 25px;
+        padding: 0px 12px;
+    }
+
+    .section_heading img {
+        width: 83px !important;
+    }
+
+    .section_heading span {
+        font-size: 19px;
+    }
+
+    .card-content h1 {
+        font-size: 30px;
+    }
+
+    .card-content h3 {
+        font-size: 23px;
+    }
+
+    .faq_wrapper {
+        padding: 30px 20px;
+    }
+
+    .flip-clock-wrapper ul{
+        width: 120px;
+    }
+
+    .banner_content h2{
+        font-size: 35px;
+    }
+}

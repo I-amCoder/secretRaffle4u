@@ -1,0 +1,185 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 24/02/2020 09:16
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-shield:before { content: "\f100"; }
+.flaticon-quote:before { content: "\f101"; }
+.flaticon-door:before { content: "\f102"; }
+.flaticon-mails:before { content: "\f103"; }
+.flaticon-phone:before { content: "\f104"; }
+.flaticon-projection-screen:before { content: "\f105"; }
+.flaticon-website:before { content: "\f106"; }
+.flaticon-save-money:before { content: "\f107"; }
+.flaticon-ssl:before { content: "\f108"; }
+.flaticon-ui-1:before { content: "\f109"; }
+.flaticon-click:before { content: "\f10a"; }
+.flaticon-click-1:before { content: "\f10b"; }
+.flaticon-prediction:before { content: "\f10c"; }
+.flaticon-play:before { content: "\f10d"; }
+.flaticon-google-maps:before { content: "\f10e"; }
+.flaticon-add-photo:before { content: "\f10f"; }
+.flaticon-typography:before { content: "\f110"; }
+.flaticon-shopping-basket:before { content: "\f111"; }
+.flaticon-commerce-and-shopping:before { content: "\f112"; }
+.flaticon-box:before { content: "\f113"; }
+.flaticon-height:before { content: "\f114"; }
+.flaticon-order:before { content: "\f115"; }
+.flaticon-tshirt:before { content: "\f116"; }
+.flaticon-food-and-restaurant:before { content: "\f117"; }
+.flaticon-commerce-and-shopping-1:before { content: "\f118"; }
+.flaticon-3d-design:before { content: "\f119"; }
+.flaticon-world:before { content: "\f11a"; }
+.flaticon-support:before { content: "\f11b"; }
+.flaticon-free-shipping:before { content: "\f11c"; }
+.flaticon-vr-glass:before { content: "\f11d"; }
+.flaticon-add:before { content: "\f11e"; }
+.flaticon-quote-1:before { content: "\f11f"; }
+.flaticon-bin:before { content: "\f120"; }
+.flaticon-facebook-1:before { content: "\f121"; }
+.flaticon-twitter:before { content: "\f122"; }
+.flaticon-google-play:before { content: "\f123"; }
+.flaticon-fit:before { content: "\f124"; }
+.flaticon-ui-2:before { content: "\f125"; }
+.flaticon-cost:before { content: "\f126"; }
+.flaticon-product-1:before { content: "\f127"; }
+.flaticon-user-profiles:before { content: "\f128"; }
+.flaticon-support-2:before { content: "\f129"; }
+.flaticon-guarantee:before { content: "\f12a"; }
+.flaticon-free:before { content: "\f12b"; }
+.flaticon-support-3:before { content: "\f12c"; }
+.flaticon-quote-2:before { content: "\f12d"; }
+.flaticon-woman-1:before { content: "\f12e"; }
+.flaticon-download:before { content: "\f12f"; }
+.flaticon-agreement:before { content: "\f130"; }
+.flaticon-result:before { content: "\f131"; }
+.flaticon-work:before { content: "\f132"; }
+.flaticon-factory:before { content: "\f133"; }
+.flaticon-objective:before { content: "\f134"; }
+.flaticon-start:before { content: "\f135"; }
+.flaticon-cloud-computing:before { content: "\f136"; }
+.flaticon-send:before { content: "\f137"; }
+.flaticon-balaclava:before { content: "\f138"; }
+.flaticon-insurance:before { content: "\f139"; }
+.flaticon-empire-state-building:before { content: "\f13a"; }
+.flaticon-cardiovascular:before { content: "\f13b"; }
+.flaticon-cancer:before { content: "\f13c"; }
+.flaticon-alarm:before { content: "\f13d"; }
+.flaticon-kidney:before { content: "\f13e"; }
+.flaticon-wire:before { content: "\f13f"; }
+.flaticon-construction-and-tools:before { content: "\f140"; }
+.flaticon-invention:before { content: "\f141"; }
+.flaticon-protector:before { content: "\f142"; }
+.flaticon-water:before { content: "\f143"; }
+.flaticon-leak:before { content: "\f144"; }
+.flaticon-drain:before { content: "\f145"; }
+.flaticon-water-heater:before { content: "\f146"; }
+.flaticon-html:before { content: "\f147"; }
+.flaticon-marsupial:before { content: "\f148"; }
+.flaticon-internet:before { content: "\f149"; }
+.flaticon-pin-1:before { content: "\f14a"; }
+.flaticon-time-and-date:before { content: "\f14b"; }
+.flaticon-send-1:before { content: "\f14c"; }
+.flaticon-map-location:before { content: "\f14d"; }
+.flaticon-time-and-date-1:before { content: "\f14e"; }
+.flaticon-calendar:before { content: "\f14f"; }
+.flaticon-send-2:before { content: "\f150"; }
+.flaticon-work-1:before { content: "\f151"; }
+.flaticon-idea:before { content: "\f152"; }
+.flaticon-dinner:before { content: "\f153"; }
+.flaticon-architecture-and-city:before { content: "\f154"; }
+.flaticon-video:before { content: "\f155"; }
+.flaticon-drink:before { content: "\f156"; }
+.flaticon-profits:before { content: "\f157"; }
+.flaticon-null:before { content: "\f158"; }
+.flaticon-deposit:before { content: "\f159"; }
+.flaticon-money-withdrawal:before { content: "\f15a"; }
+.flaticon-esports:before { content: "\f15b"; }
+.flaticon-shield-1:before { content: "\f15c"; }
+.flaticon-casino:before { content: "\f15d"; }
+.flaticon-dice:before { content: "\f15e"; }
+.flaticon-save:before { content: "\f15f"; }
+.flaticon-jigsaw:before { content: "\f160"; }
+.flaticon-second-prize:before { content: "\f161"; }
+.flaticon-gaming:before { content: "\f162"; }
+.flaticon-wallet:before { content: "\f163"; }
+.flaticon-marketing:before { content: "\f164"; }
+.flaticon-arrow:before { content: "\f165"; }
+.flaticon-address:before { content: "\f166"; }
+.flaticon-whatsapp:before { content: "\f167"; }
+.flaticon-mail-1:before { content: "\f168"; }
+.flaticon-playing-cards:before { content: "\f169"; }
+.flaticon-casino-1:before { content: "\f16a"; }
+.flaticon-baccarat:before { content: "\f16b"; }
+.flaticon-dice-1:before { content: "\f16c"; }
+.flaticon-casino-2:before { content: "\f16d"; }
+.flaticon-table-for-playing-cards:before { content: "\f16e"; }
+.flaticon-gift:before { content: "\f16f"; }
+.flaticon-gear-1:before { content: "\f170"; }
+.flaticon-account:before { content: "\f171"; }
+.flaticon-business-and-finance:before { content: "\f172"; }
+.flaticon-money:before { content: "\f173"; }
+.flaticon-affiliate:before { content: "\f174"; }
+.flaticon-list:before { content: "\f175"; }
+.flaticon-click-3:before { content: "\f176"; }
+.flaticon-binocular:before { content: "\f177"; }
+.flaticon-search-1:before { content: "\f178"; }
+.flaticon-category:before { content: "\f179"; }
+.flaticon-travel:before { content: "\f17a"; }
+.flaticon-support-4:before { content: "\f17b"; }
+.flaticon-plus:before { content: "\f17c"; }
+.flaticon-minus:before { content: "\f17d"; }
+.flaticon-marker:before { content: "\f17e"; }
+.flaticon-email:before { content: "\f17f"; }
+.flaticon-phone-1:before { content: "\f180"; }
+.flaticon-play-button:before { content: "\f181"; }
+.flaticon-server:before { content: "\f182"; }
+.flaticon-server-1:before { content: "\f183"; }
+.flaticon-browser:before { content: "\f184"; }
+.flaticon-database:before { content: "\f185"; }
+.flaticon-password:before { content: "\f186"; }
+.flaticon-question:before { content: "\f187"; }
+.flaticon-process:before { content: "\f188"; }
+.flaticon-domain-registration:before { content: "\f189"; }
+.flaticon-click-2:before { content: "\f18a"; }
+.flaticon-play-button-1:before { content: "\f18b"; }
+.flaticon-technician:before { content: "\f18c"; }
+.flaticon-chart:before { content: "\f18d"; }
+.flaticon-server-2:before { content: "\f18e"; }
+.flaticon-server-3:before { content: "\f18f"; }
+.flaticon-watch:before { content: "\f190"; }
+.flaticon-maintenance:before { content: "\f191"; }
+.flaticon-repair:before { content: "\f192"; }
+.flaticon-add-group:before { content: "\f193"; }
+.flaticon-cpu:before { content: "\f194"; }
+.flaticon-cloud-computing-1:before { content: "\f195"; }
+.flaticon-bandwidth:before { content: "\f196"; }
+.flaticon-speed:before { content: "\f197"; }
+.flaticon-server-4:before { content: "\f198"; }
