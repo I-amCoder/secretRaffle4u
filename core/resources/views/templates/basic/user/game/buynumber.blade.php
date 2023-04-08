@@ -11,7 +11,7 @@
                         <span class="game-end-date">{{ showDateTime($phase->end_date) }}</span>
                         <div class="jackpot-countdown jc_1 mt-4" data-year="{{ showDateTime($phase->end_date,'Y') }}"
                              data-month="{{ showDateTime($phase->end_date,'m') }}"
-                             data-day="{{ showDateTime($phase->end_date,'d') }}"
+                              data-day="{{ showDateTime($phase->end_date,'d') }}"
                              data-hour="{{ showDateTime($phase->end_date,'h') }}"
                              data-minute="{{ showDateTime($phase->end_date,'i') }}"></div>
                     </div>
@@ -24,7 +24,7 @@
                 <input type="hidden" name="user_choose">
 
                 <div class="row gy-4">
-                    
+
                     @php
                         $data = \App\Models\Bid::where('phase_id', $phase->id)->distinct('user_choose')->get();
                         $taken = [];
